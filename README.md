@@ -8,7 +8,7 @@ AI-powered search engine using Sentence Transformer and FAISS for finding simila
 - **Scalable**: Handles 100K+ questions efficiently
 - **Interactive UI**: Clean Streamlit interface
 
---
+
 
 **Components:**
 1. Sentence-Transformer for embeddings (384-dim)
@@ -23,17 +23,22 @@ AI-powered search engine using Sentence Transformer and FAISS for finding simila
 
 ## 🚀 Live Demo
 
--- 
+
 
 ## 💻 Local Setup
 \`\`\`bash
+
 git clone (https://github.com/srinija0208/Semantic-Question-Search-Engine.git)
+
 cd semantic-search-engine
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
 \`\`\`
 
--- 
+
 
 ## 🛠️ Tech Stack
 - Python 3.9+
@@ -42,12 +47,11 @@ streamlit run app.py
 - Streamlit
 - Pandas, NumPy
 
--- 
+
 
 ## 📈 Future Enhancements
 - Hybrid search (dense + sparse)
 - Multi-language support
 - Query expansion
 - User feedback loop
-```
 
