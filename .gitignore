@@ -1,0 +1,4 @@
+nlpenv
+question_embeddings.npy
+ques_emd.csv
+faiss_index.index
