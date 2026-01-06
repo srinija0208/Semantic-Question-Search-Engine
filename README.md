@@ -79,3 +79,7 @@ streamlit run app.py
 
 - User feedback–driven relevance tuning
 
+## 📸 Demo Screenshot
+
+![Semantic Search Demo](assets/demo1.png)
+![Semantic Search Demo](assets/demo2.png)
