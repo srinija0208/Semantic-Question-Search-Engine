@@ -37,7 +37,7 @@ The system was evaluated using human-judged Precision@K, where the top-K retriev
 Note: Precision may vary for open-domain queries, which is a known challenge in semantic retrieval systems.
 
 ## 🚀 Live Demo
-
+Try the live app here: [Semantic Question Search Engine](https://huggingface.co/spaces/srinija1176/semantic-question-search)
 
 
 ## 💻 Local Setup
