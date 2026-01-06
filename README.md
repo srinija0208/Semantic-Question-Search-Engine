@@ -41,18 +41,18 @@ Note: Precision may vary for open-domain queries, which is a known challenge in 
 
 
 ## 💻 Local Setup
-\`\`\`bash
-
--- git clone https://github.com/srinija0208/Semantic-Question-Search-Engine.git
-
--- cd Semantic-Question-Search-Engine
-
--- pip install -r requirements.txt
-
--- streamlit run app.py
 
 
-\`\`\`
+- git clone https://github.com/srinija0208/Semantic-Question-Search-Engine.git
+
+- cd Semantic-Question-Search-Engine
+
+- pip install -r requirements.txt
+
+- streamlit run app.py
+
+
+
 
 
 
